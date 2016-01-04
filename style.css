@@ -1,0 +1,32 @@
+html {
+	background-color: white;
+	font-family: ;
+
+}
+#nav {
+height: 100px;
+}
+#nav li {
+display: inline;
+list-style: none;
+}
+#wrapper {
+background-color: #E2E3E5;
+
+height: 750px;
+width: 70%;
+margin-left: 15%;
+margin-right: 10%;
+margin-top: 3%;
+}
+
+#wrapper img {
+	padding-top: 5%;
+	padding-left: 12%;
+}
+.section1 {
+
+}
+.section2 {
+	
+}
