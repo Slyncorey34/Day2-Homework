@@ -1,32 +1,46 @@
 html {
 	background-color: white;
-	font-family: ;
+	color: slategrey;
+	font-family: Georgia;
 
 }
 #nav {
 height: 100px;
+padding-right: 3%;
 }
 #nav li {
 display: inline;
+float: right;
 list-style: none;
+padding-right: 7%;
+padding: 10px;
 }
 #wrapper {
-background-color: #E2E3E5;
 
 height: 750px;
-width: 70%;
-margin-left: 15%;
-margin-right: 10%;
+margin-left: 5%;
+margin-right: 8%;
 margin-top: 3%;
+width: 90%;
 }
 
 #wrapper img {
-	padding-top: 5%;
-	padding-left: 12%;
+	padding-left: 14%;
+	padding-top: 8%;
+	padding-right: 8%;
+
 }
 .section1 {
+	background-color: #E2E3E5;
 
 }
 .section2 {
-	
+	padding-top: 4%;
+	width: 30%;
+}
+.section3 p{
+
+	margin-left: 4%;
+	width:30%;
+	float: right;
 }
